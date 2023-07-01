@@ -1,5 +1,7 @@
 # Data Engineering NBA Latest Transactions Project
 
+![image](https://github.com/babatal/NBA_transactions/assets/94752515/1fc2ec2b-9935-447c-ba8c-445bd31e9708)
+
 ## Overview
 
 This project aims to provide a convenient way to keep track of the latest NBA player transactions. It involves three main steps: data extraction, data transformation, and data loading. The extracted data is transformed using pandas and loaded into a PostgreSQL database. This web app extends the project by visualizing the loaded data using Streamlit, making it easy to explore and analyze the transactions.
