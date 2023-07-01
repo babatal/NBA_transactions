@@ -24,3 +24,7 @@ The last step of the process involves loading the transformed data into a Postgr
 
 ## Data Visualization with Streamlit
 To provide an interactive and user-friendly way to explore the latest NBA transactions, I have built a Streamlit web app. Streamlit connects to the PostgreSQL database and retrieves the latest data. It then visualizes the transactions using selectbox, allowing users to customize their view based on their choice.
+
+
+https://github.com/babatal/NBA_transactions/assets/94752515/784fb21e-48ac-46a5-931d-0caa819718dd
+
